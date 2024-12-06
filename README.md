@@ -8,7 +8,7 @@ UIN: 130006633
 
 [Homework](./homeworks)
 
-## Labs
+
 | Lab |
 |-----|
 | [Lab1](labs/Lab1/README.md) |
